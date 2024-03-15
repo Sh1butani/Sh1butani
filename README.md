@@ -10,7 +10,7 @@
 Python Developer
 ----------------
 
-I've been learning to code for 1 year after switching careers. Backend development attracted me because of its wide opportunities for creativity and innovation
+I've been learning to code for 1 year after switching careers. Backend development attracted me because of its wide opportunities for creativity and innovation.
 
 * 🌍  I'm based in Moscow
 * 📄  Know about my experiences <a href="https://hh.ru/applicant/resumes/view?resume=545f6a66ff0cf1e0f60039ed1f435641323257" target="_blank">CV</a> 
