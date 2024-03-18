@@ -2,13 +2,10 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
-<div align="center">
-  <img src="https://media1.tenor.com/m/NZqiUoAnAFsAAAAC/cat-computer.gif" width="600" height="400"/>
-</div>
+<img src="https://media1.tenor.com/m/NZqiUoAnAFsAAAAC/cat-computer.gif" width="500" height="300" align="right" />
 
 
-Python Developer
-----------------
+### Python Developer
 
 I've been learning to code for 1 year after switching careers. Backend development attracted me because of its wide opportunities for creativity and innovation.
 
