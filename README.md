@@ -5,14 +5,11 @@
 <img src="https://media1.tenor.com/m/NZqiUoAnAFsAAAAC/cat-computer.gif" width="500" height="300" align="right" />
 
 
-### Python Developer
-
 I've been learning to code for 1 year after switching careers. Backend development attracted me because of its wide opportunities for creativity and innovation.
 
 * 🌍  I'm based in Moscow
 * 📄  Know about my experiences <a href="https://hh.ru/applicant/resumes/view?resume=545f6a66ff0cf1e0f60039ed1f435641323257" target="_blank">CV</a> 
 * ✉️  You can contact me at [pilosyan.david@yandex.ru](mailto:pilosyan.david@yandex.ru) or <a href="https://t.me/Shibutani" target="_blank">telegram</a>
-* 🧠  I'm currently learning algorithms
 * 🏴󠁧󠁢󠁥󠁮󠁧󠁿 I speak English, Russian
 
 ### Skills
